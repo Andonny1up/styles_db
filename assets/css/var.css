@@ -1,0 +1,19 @@
+/* Variables.css */
+:root{
+    /*primary coloor*/
+    --primary-color-50: #fff1f1;
+    --primary-color-400: #FF6666;
+    --primary-color-500: #fd3636;
+    --primary-color-600: #eb1616;
+    --primary-color-700: #c60f0f;
+    --primary-color-800: #a31111;
+    /* backgroun color*/
+    --background-color-50: #121212;
+    --background-color-100: #171717;
+    --background-color-200: #202020;
+    --background-color-800: #3d3d3d;
+    /* text  color*/
+    --text-color-100: #F6F6F6;
+    --text-color-200: #b6c4cf;
+    --text-color-300: #8F9CA7;
+}

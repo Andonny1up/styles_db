@@ -1,0 +1,107 @@
+
+html, body{
+    background: red !important;
+}
+.top_side_menu{
+    background: #171717;
+}
+.top_side_menu > .t_m_right > .user_visit_card span{
+    color: #F6F6F6;
+}
+.booknetic_help_center_icon{
+    background-color: transparent;
+}
+.m_header > .m_head_title{
+    color: white;
+}
+.left_side_menu {
+    background: #202020;
+}
+.left_side_menu > .l_m_nav > .l_m_nav_item.active_menu > .l_m_nav_item_link:before {
+    background: #Eb1616;
+}
+.left_side_menu > .l_m_nav > .l_m_nav_item.active_menu > .l_m_nav_item_link > .l_m_nav_item_icon {
+    color: #eb1616;
+}
+.left_side_menu > .l_m_nav > .l_m_nav_item:hover > .l_m_nav_item_link > .l_m_nav_item_icon {
+    color: #eb1616;
+}
+.btn-default {
+    background-color: transparent !important;
+    color: #8F9CA7 !important;
+    border: 1px solid #e3eaf3 !important;
+}
+.btn-default:hover {
+    background-color: transparent !important;
+    color: white !important;
+    border: 1px solid white !important;
+}
+.btn-primary{
+    background-color: #eb1616 !important;
+    border-color: #eb1616 !important;
+}
+.btn-primary:hover{
+    background-color: #FF6666 !important;
+    border-color: #FF6666 !important;
+}
+.btn-outline-secondary:hover {
+    background: #171717 !important;
+    color: #Eb1616 !important;
+    border: 1px solid #Eb1616 !important;
+}
+.m_content{
+    background-color: #202020;
+}
+.user_visit_card > .user_visit_details > :first-child{
+    color: white;
+}
+.elegant_table > tbody > tr > td{
+    background-color: transparent;
+    color: #F6F6F6;
+}
+.fs-modal .fs-modal-title{
+    background-color: #202020;
+}
+.fs-modal .fs-modal-title > .title-text{
+    color: white;
+}
+.fs-modal-body-inner{
+    background-color: #202020;
+    color: white;
+}
+.fs-modal-footer{
+    background-color: #202020;
+}
+.select2-container--bootstrap .select2-selection, .select2-search--dropdown{
+    background-color: #202020;
+}
+/* .select2-container--bootstrap .select2-results__option[aria-selected=true]{
+    background-color: #Eb1616;
+    color: white;
+} */
+.form-control{
+    background-color: #202020;
+    color: #8F9CA7
+}
+.form-control:focus{
+    background-color: #252525;
+    color: #8F9CA7
+}
+.nav-light.nav > .nav-item > .nav-link.active{
+    color: #828F9A;
+}
+.form-control-plaintext{
+    color: #8F9CA7;
+}
+.select2-container--bootstrap .select2-results__option{
+    background-color: #202020;
+}
+.select2-container--bootstrap .select2-selection--single .select2-selection__rendered{
+    color: #8F9CA7;
+}
+.fs-modal label{
+    color: #b6c4cf !important;
+}
+.dropdown-menu.show{
+    background-color: #202020;
+}

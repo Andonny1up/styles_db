@@ -1,0 +1,35 @@
+@import url('var.css');
+
+/*Barra Menu lateral*/
+.left_side_menu{
+    background: var(--background-color-100);
+}
+.left_side_menu > .l_m_nav > .l_m_nav_item > .l_m_nav_item_link > .l_m_nav_item_icon{
+    color: var(--primary-color-50)
+}
+.left_side_menu > .l_m_nav > .l_m_nav_item.active_menu > .l_m_nav_item_link{
+    background: var(--background-color-800);
+}
+.left_side_menu > .l_m_nav > .l_m_nav_item.active_menu > .l_m_nav_item_link > .l_m_nav_item_icon{
+    color: var(--primary-color-500);
+}
+.left_side_menu > .l_m_nav > .l_m_nav_item.active_menu > .l_m_nav_item_link:before{
+    background: var(--primary-color-500);
+}
+  /*hover*/
+.left_side_menu > .l_m_nav > .l_m_nav_item:hover > .l_m_nav_item_link > .l_m_nav_item_icon {
+    color: var(--primary-color-500);
+}
+.left_side_menu > .l_m_nav > .l_m_nav_item:hover > .l_m_nav_item_link {
+    background: var(--background-color-800);
+}
+
+/*btns*/
+.btn-primary{
+    background-color: var(--primary-color-500) !important;
+    border: 1px solid var(--primary-color-500) !important;
+}
+.btn-primary:hover{
+    background-color: var(--primary-color-700) !important;
+    border: 1px solid var(--primary-color-700) !important;
+}

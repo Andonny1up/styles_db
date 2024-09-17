@@ -1,0 +1,20 @@
+.statistic-boxes{
+    background-color: #202020;
+    box-shadow: 0 0 15px -5px rgba(255, 255, 255, 0.1);
+}
+.box-number-div{
+    color: #b6c4cf;
+}
+.statistic-boxes:after{
+    background-color: #171717;
+}
+#date_buttons .date_button{
+    background-color: #171717;
+    box-shadow: 0 0 15px -5px rgba(255, 255, 255, 0.1);
+}
+.dashboard-card{
+    background-color: #202020;
+}
+.date_buttons_span .date_button{
+    background-color: #171717;
+}

@@ -1,0 +1,66 @@
+#fs-calendar h2{
+    color: #b6c4cf;
+}
+.fc-button-group{
+    background-color: #171717;
+}
+#fs-calendar .fc-button-primary{
+    background-color: #171717;
+}
+#fs-calendar .fc-left .fc-today-button{
+    background-color: #eb1616;
+}
+#fs-calendar .fc-left .fc-prev-button, #fs-calendar .fc-left .fc-next-button{
+    color: #8F9CA7;
+}
+.m_head_actions .advanced_filters_btn{
+    background-color: transparent;
+}
+.m_head_actions .advanced_filters_popover{
+    background-color: #202020;
+}
+.m_head_actions .advanced_filters_popover_head span{
+    color: #b6c4cf;
+}
+.m_head_actions .advanced_filters_popover_body .filter_title{
+    color: #b6c4cf;
+}
+#fs-calendar .fc-day-header{
+    background-color: #171717;
+}
+#fs-calendar .fc-other-month{
+    background: #171717 !important;
+}
+#fs-calendar .fc-other-month .fc-day-number{
+    color: #505050 !important;
+}
+#fs-calendar .fc-body .fc-day{
+    background-color: #202020;
+}
+#fs-calendar .fc-body .fc-day-number{
+    color: #8F9CA7;
+}
+.add-appointment-on-calendar.centered{
+    background-color: #353535;
+}
+#fs-calendar .fc-body .fc-bg .fc-today{
+    background-color: #303030;
+}
+
+#fs-calendar .fc-axis{
+    background-color: #171717;
+}
+.fc .fc-resource-cell{
+    background-color: #171717;
+    color: #b6c4cf
+}
+/*tabla list*/
+.fc .fc-list-table{
+    background-color: #202020;
+}
+#fs-calendar .fc-list-view .fc-list-item > td{
+    color: #8F9CA7
+}
+.fc-unthemed .fc-list-item:hover td{
+    background-color: #353535 !important;
+}
