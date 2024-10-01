@@ -10,6 +10,9 @@
 #fs-calendar .fc-left .fc-today-button{
     background-color: var(--primary-color-600);
 }
+#fs-calendar .fc-list-view .fc-list-item > .fc-list-item-title{
+    width: 100%;
+}
 /* media query pantalla menos de 768px*/
 @media (max-width: 767px) {
     .create_new_appointment{

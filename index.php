@@ -22,6 +22,7 @@ function deiby_barber_enqueue_custom_styles() {
 //<?php do_action( 'bkntc_module_calendar_loaded' );
 function deiby_barber_enqueue_custom_styles_calendar() {
     echo '<link rel="stylesheet" href="' . plugin_dir_url(__FILE__) . 'assets/css/custom-calendar.css" type="text/css">';
+    echo '<script src="' . plugin_dir_url(__FILE__) . 'assets/js/custom-calendar.js" type="text/javascript"></script>';
 }
 
 ?>
