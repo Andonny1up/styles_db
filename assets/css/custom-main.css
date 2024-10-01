@@ -33,3 +33,7 @@
     background-color: var(--primary-color-700) !important;
     border: 1px solid var(--primary-color-700) !important;
 }
+.calendar_event_line_3, .calendar_event_line_1{
+    font-size: 15px;
+    font-weight: 600;
+}
